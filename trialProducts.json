@@ -1,0 +1,49 @@
+{
+    "status": true,
+    "data": {
+        "products": [
+            {
+                "id": "434",
+                "name": "Pattern - Fractal Wallpaper",
+                "image_url": "https://newevolutiondesigns.com/images/freebies/abstract-background-7.jpg",
+				"image_type": "Love"
+            },
+            {
+                "id": "431",
+                "name": "Mickey Mouse",
+                "image_url": "http://www.ultrahdfreewallpapers.com/uploads/large/3d-and-abstract/abstract-hd-wallpaper-062.jpg",
+				"image_type": "Hate"
+			},
+            {
+                "id": "424",
+                "name": "Pattern - Wallpaper",
+                "image_url": "http://7-themes.com/data_images/collection/8/4492038-hd-abstract-wallpapers.jpg",
+				"image_type": "Love"
+            },
+			 {
+                "id": "426",
+                "name": "Batman",
+                "image_url": "http://7-themes.com/data_images/collection/8/4492027-hd-abstract-wallpapers.jpg",
+				"image_type": "Hate"
+            },
+            {
+                "id": "419",
+                "name": "Pattern - Music",
+                "image_url": "http://7-themes.com/data_images/collection/8/4492251-hd-abstract-wallpapers.jpg",
+				"image_type": "Life"
+            },
+            {
+                "id": "419",
+                "name": "Pattern - Music",
+                "image_url": "http://7-themes.com/data_images/collection/8/4492251-hd-abstract-wallpapers.jpg",
+				"image_type": "Life"
+            },
+            {
+                "id": "424",
+                "name": "Pattern - Wallpaper",
+                "image_url": "http://7-themes.com/data_images/collection/8/4492038-hd-abstract-wallpapers.jpg",
+				"image_type": "Love"
+            }
+        ]
+    }
+}
