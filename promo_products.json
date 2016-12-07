@@ -4,23 +4,27 @@
         "products": [
             {
                 "id": "434",
-                "name": "Pattern - Fractal Wallpaper",
-                "image_url": "https://newevolutiondesigns.com/images/freebies/abstract-background-7.jpg"
+                "name": "Fractal Wallpaper",
+                "image_url": "https://newevolutiondesigns.com/images/freebies/abstract-background-7.jpg",
+		    "image_type":"Abstract"
             },
             {
                 "id": "431",
-                "name": "Mickey Mouse",
-                "image_url": "http://www.ultrahdfreewallpapers.com/uploads/large/3d-and-abstract/abstract-hd-wallpaper-062.jpg"
+                "name": "Abstract HD",
+                "image_url": "http://www.ultrahdfreewallpapers.com/uploads/large/3d-and-abstract/abstract-hd-wallpaper-062.jpg",
+		    "image_type":"Abstract"
 			},
 		{
                 "id": "434",
                 "name": "Pattern - Fractal Wallpaper",
-                "image_url": "https://newevolutiondesigns.com/images/freebies/abstract-background-7.jpg"
+                "image_url": "https://newevolutiondesigns.com/images/freebies/abstract-background-7.jpg",
+			"image_type":"Fractal"
             },
             {
                 "id": "431",
-                "name": "Mickey Mouse",
-                "image_url": "http://www.ultrahdfreewallpapers.com/uploads/large/3d-and-abstract/abstract-hd-wallpaper-062.jpg"
+                "name": "Abstract Wallpaper",
+                "image_url": "http://www.ultrahdfreewallpapers.com/uploads/large/3d-and-abstract/abstract-hd-wallpaper-062.jpg",
+		    "image_type":"Abstract"
 			}
         ]
     }
