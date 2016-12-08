@@ -49,7 +49,37 @@
                 "name": "HD wallpapers",
                 "image_url": "http://www.iwallhd.com/stock/crysis-hd-game-wallpaper.jpg",
 		    "image_type":"promo"
+			},
+            {
+                "id": "431",
+                "name": "HD wallpapers",
+                "image_url": "http://www.planwallpaper.com/static/images/wallpapers-hd-8000-8331-hd-wallpapers.jpg",
+		    "image_type":"promo"
+			},
+            {
+                "id": "431",
+                "name": "HD wallpapers",
+                "image_url": "http://www.intrawallpaper.com/static/images/HD-Wallpapers-C76.jpg",
+		    "image_type":"promo"
+			},
+            {
+                "id": "431",
+                "name": "HD wallpapers",
+                "image_url": "http://www.intrawallpaper.com/static/images/Unique_And_Beautiful_Wallpaper_HD.jpg",
+		    "image_type":"promo"
+			},
+            {
+                "id": "431",
+                "name": "HD wallpapers",
+                "image_url": "http://www.intrawallpaper.com/static/images/Golden-Gate-Bridge-HD-Wallpapers-WideScreen_FK1cfem.jpg",
+		    "image_type":"promo"
 			}
+		
+		
+		
+		
+		
+		
         ]
     }
 }
