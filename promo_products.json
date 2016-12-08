@@ -4,27 +4,51 @@
         "products": [
             {
                 "id": "434",
-                "name": "Fractal Wallpaper",
-                "image_url": "https://newevolutiondesigns.com/images/freebies/abstract-background-7.jpg",
-		    "image_type":"Abstract"
+                "name": "Nature",
+                "image_url": "http://shushi168.com/data/out/104/37258499-hd-landscape-wallpapers.jpg",
+		    "image_type":"promo"
             },
             {
                 "id": "431",
-                "name": "Abstract HD",
-                "image_url": "http://www.ultrahdfreewallpapers.com/uploads/large/3d-and-abstract/abstract-hd-wallpaper-062.jpg",
-		    "image_type":"Abstract"
+                "name": "Nature",
+                "image_url": "http://shushi168.com/data/out/104/37072534-hd-landscape-wallpapers.jpg",
+		    "image_type":"promo"
 			},
 		{
                 "id": "434",
-                "name": "Pattern - Fractal Wallpaper",
-                "image_url": "https://newevolutiondesigns.com/images/freebies/abstract-background-7.jpg",
-			"image_type":"Fractal"
+                "name": "Cars",
+                "image_url": "http://wallpapercave.com/wp/8SpQIKI.jpg",
+			"image_type":"promo"
             },
             {
                 "id": "431",
-                "name": "Abstract Wallpaper",
-                "image_url": "http://www.ultrahdfreewallpapers.com/uploads/large/3d-and-abstract/abstract-hd-wallpaper-062.jpg",
-		    "image_type":"Abstract"
+                "name": "Berlinetta",
+                "image_url": "http://www.hotszots.eu/_galler/IMG/FERRARI/ferrari-f12-berlinetta-yellow-car-bokeh-hd-wallpaper.jpg",
+		    "image_type":"promo"
+			},
+            {
+                "id": "431",
+                "name": "Cars",
+                "image_url": "http://wallpapercave.com/wp/8c5N7xC.jpg",
+		    "image_type":"promo"
+			},
+            {
+                "id": "431",
+                "name": "Raven",
+                "image_url": "https://wallpaperscraft.com/image/lada_raven_2015_concept_rear_view_sports_car_104045_1920x1080.jpg",
+		    "image_type":"promo"
+			},
+            {
+                "id": "431",
+                "name": "HD wallpapers",
+                "image_url": "http://shareyourwallpapers.com/upload/wallpaper/3d-and-digital-art/horror/horror_b9cbda4b_send_to_mobile.jpg",
+		    "image_type":"promo"
+			},
+            {
+                "id": "431",
+                "name": "HD wallpapers",
+                "image_url": "http://www.iwallhd.com/stock/crysis-hd-game-wallpaper.jpg",
+		    "image_type":"promo"
 			}
         ]
     }
