@@ -1698,14 +1698,140 @@
                 "name": "Abstract Android Walls",
                 "image_url": "http://www.coolandroidwallpapers.com/wp-content/uploads/Abstract/Abstract%20Android%20Wallpapers%20HD%2062.jpg",
 		"image_type":"mobile"
-			},
+			}
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			,
 		{
                 "id": "118",
-                "name": "Cute walls",
-                "image_url": "http://cutewallpaper.org/wp-content/uploads/2016/01/Abstract-Wallpaper-HD-1080x1920-2.jpg",
-		"image_type":"mobile"
+                "name": "Cute",
+                "image_url": "https://s-media-cache-ak0.pinimg.com/736x/5e/f9/34/5ef9347953b353cffd0bba62aada7cae.jpg",
+		"image_type":"Animals"
 			}
-		
+			,
+		{
+                "id": "118",
+                "name": "Cute Owl And Family",
+                "image_url": "http://stylearena.net/wp-content/uploads/2015/08/baby-animals-with-mothers-14.jpg",
+		"image_type":"Animals"
+			}
+			,
+		{
+                "id": "118",
+                "name": "Cute",
+                "image_url": "https://s-media-cache-ak0.pinimg.com/736x/0f/b8/c3/0fb8c3b6e42bd338b7d4312c46db7584.jpg",
+		"image_type":"Animals"
+			}
+			,
+		{
+                "id": "118",
+                "name": "Cute",
+                "image_url": "http://imgs.abduzeedo.com/files/articles/baby-animals/Baby-Animals-001.jpg",
+		"image_type":"Animals"
+			}
+			,
+		{
+                "id": "118",
+                "name": "Cute Pig",
+                "image_url": "http://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-10.jpg",
+		"image_type":"Animals"
+			}
+			,
+		{
+                "id": "118",
+                "name": "Cat",
+                "image_url": "https://newevolutiondesigns.com/images/freebies/cool-wallpaper-1.jpg",
+		"image_type":"Animals"
+			}
+			,
+		{
+                "id": "118",
+                "name": "Cute Cat",
+                "image_url": "https://i.ytimg.com/vi/6FQsIfE7sZM/maxresdefault.jpg",
+		"image_type":"Animals"
+			}
+			,
+		{
+                "id": "118",
+                "name": "Cat",
+                "image_url": "http://static.boredpanda.com/blog/wp-content/uploads/2016/08/cute-kittens-30-57b30ad41bc90__605.jpg",
+		"image_type":"Animals"
+			}
+			,
+		{
+                "id": "118",
+                "name": "Sleeping Beauty",
+                "image_url": "http://static.boredpanda.com/blog/wp-content/uploads/2016/08/cute-kittens-4-57b30a939dff5__605.jpg",
+		"image_type":"Animals"
+			}
+			,
+		{
+                "id": "118",
+                "name": "Cute",
+                "image_url": "https://s-media-cache-ak0.pinimg.com/736x/16/9e/fd/169efd8c7bb1f9504335171340dcce0a.jpg",
+		"image_type":"Animals"
+			}
+			,
+		{
+                "id": "118",
+                "name": "Cute Puppy",
+                "image_url": "https://i.ytimg.com/vi/opKg3fyqWt4/hqdefault.jpg",
+		"image_type":"Animals"
+			}
+			,
+		{
+                "id": "118",
+                "name": "Dog",
+                "image_url": "http://iheartdogs.com/wp-content/uploads/2015/01/Screenshot-2015-01-17-16.15.29.png",
+		"image_type":"Animals"
+			}
+			,
+		{
+                "id": "118",
+                "name": "Cutest",
+                "image_url": "http://petguide.com.vsassets.com/wp-content/uploads/2014/10/cutest-dog-breeds-main.jpg",
+		"image_type":"Animals"
+			}
+			,
+		{
+                "id": "118",
+                "name": "Cute Puppies",
+                "image_url": "http://cdn.pcwallart.com/images/dogs-wallpaper-8.jpg",
+		"image_type":"Animals"
+			}
+			,
+		{
+                "id": "118",
+                "name": "Dog n Cat",
+                "image_url": "https://i.ytimg.com/vi/FGrnvP5qWd0/maxresdefault.jpg",
+		"image_type":"Animals"
+			}
+			,
+		{
+                "id": "118",
+                "name": "Cute",
+                "image_url": "http://www.pageresource.com/wallpapers/wallpaper/animal-cute-cat-and-dog-cuddling-cats-dogs_309803.jpg",
+		"image_type":"Animals"
+			}
+			,
+		{
+                "id": "118",
+                "name": "Cute Kitten",
+                "image_url": "http://wallpapercave.com/wp/ZtI7WB8.jpg",
+		"image_type":"Animals"
+			}
+			
             
         ]
     }
