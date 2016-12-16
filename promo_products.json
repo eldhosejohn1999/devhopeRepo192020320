@@ -4,13 +4,13 @@
         "products": [
             {
                 "id": "434",
-                "name": "Nature",
+                "name": "Natural Beauty",
                 "image_url": "http://wallpapercave.com/wp/EJyDVys.jpg",
 		    "image_type":"promo"
             },
             {
                 "id": "431",
-                "name": "Nature",
+                "name": "Natural Beauty",
                 "image_url": "http://cdn.johnywheels.com/2015/10/28/windows8wallpaper1920x1080nature-l-54245e682d504ceb.jpg",
 		    "image_type":"promo"
 			},
@@ -40,38 +40,38 @@
 			},
             {
                 "id": "431",
-                "name": "HD wallpapers",
-                "image_url": "https://awesomewallpapers.files.wordpress.com/2015/10/watercolor-sunset-hd.jpg",
+                "name": "HD wallpaper",
+                "image_url": "http://www.intrawallpaper.com/static/images/334651-hd-wallpaper.jpg",
+		    "image_type":"promo"
+			},
+            {
+                "id": "431",
+                "name": "Paintings",
+                "image_url": "http://www.intrawallpaper.com/static/images/324310.jpg",
+		    "image_type":"promo"
+			},
+            {
+                "id": "431",
+                "name": "Autumn",
+                "image_url": "http://www.intrawallpaper.com/static/images/Autumn-Garden-HD-Wallpaper1_GKlh4O7.jpg",
+		    "image_type":"promo"
+			},
+            {
+                "id": "431",
+                "name": "Bicycle",
+                "image_url": "http://www.planwallpaper.com/static/images/bicycle-1280x720.jpg",
+		    "image_type":"promo"
+			},
+            {
+                "id": "431",
+                "name": "jaguar mexico",
+                "image_url": "http://www.intrawallpaper.com/static/images/jaguar_mexico-3840x2160.jpg",
 		    "image_type":"promo"
 			},
             {
                 "id": "431",
                 "name": "HD wallpapers",
-                "image_url": "http://www.iwallhd.com/stock/crysis-hd-game-wallpaper.jpg",
-		    "image_type":"promo"
-			},
-            {
-                "id": "431",
-                "name": "HD wallpapers",
-                "image_url": "http://www.planwallpaper.com/static/images/wallpapers-hd-8000-8331-hd-wallpapers.jpg",
-		    "image_type":"promo"
-			},
-            {
-                "id": "431",
-                "name": "HD wallpapers",
-                "image_url": "http://www.intrawallpaper.com/static/images/HD-Wallpapers-C76.jpg",
-		    "image_type":"promo"
-			},
-            {
-                "id": "431",
-                "name": "HD wallpapers",
-                "image_url": "http://www.intrawallpaper.com/static/images/Unique_And_Beautiful_Wallpaper_HD.jpg",
-		    "image_type":"promo"
-			},
-            {
-                "id": "431",
-                "name": "HD wallpapers",
-                "image_url": "http://www.intrawallpaper.com/static/images/Golden-Gate-Bridge-HD-Wallpapers-WideScreen_FK1cfem.jpg",
+                "image_url": "http://www.intrawallpaper.com/static/images/New-HD-Wallpapers-2.jpg",
 		    "image_type":"promo"
 			}
 		
